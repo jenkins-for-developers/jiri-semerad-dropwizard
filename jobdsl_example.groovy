@@ -87,7 +87,7 @@ all_jobs = [
         [name: 'bugfix',  branch: 'bugfix/**',  artifacts: false],
         [name: 'feature', branch: 'feature/**', artifacts: false],
         [name: 'develop', branch: 'develop',    artifacts: true],
-        [name: 'master',  branch: 'master',     artifacts: true],
+        [name: 'main',  branch: 'main',     artifacts: true],
 ]
 
 
