@@ -1,5 +1,6 @@
 pipeline {
   agent any
+  sh "echo pokus"
 
   options {
     timestamps()
