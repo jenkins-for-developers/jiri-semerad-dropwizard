@@ -1,5 +1,6 @@
 pipeline {
   agent any
+  echo "jsem tu"
 
   options {
     timestamps()
