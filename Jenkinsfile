@@ -1,6 +1,5 @@
 pipeline {
   agent any
-  print "pokus"
 
   options {
     timestamps()
